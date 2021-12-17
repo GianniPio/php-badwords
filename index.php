@@ -15,7 +15,7 @@
 ?>
 
 <h1> <?php echo $title; ?> </h1>
-<p> La lughezza del titolo è: <?php echo strlen($title); ?></p>
+<p> La lughezza del titolo è: <?php echo strlen($title); ?></p> <!-- Questa funzione serve per contare i caratteri della stringa -->
     
 </body>
 </html>
